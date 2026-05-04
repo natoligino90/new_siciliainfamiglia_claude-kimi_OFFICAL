@@ -1361,7 +1361,7 @@ textarea:focus-visible {
 /* ==================== */
 /* CHI SIAMO */
 /* ==================== */
-.section-chisiamo { background:var(--bg-cream); text-align:center; padding:32px 0 0px; }
+.section-chisiamo { background:var(--bg-cream); text-align:center; padding:0px 0 0px; }
 .chisiamo-content { max-width:680px; margin:0 auto; }
 .chisiamo-tagline {
     font-family:var(--font-heading);
