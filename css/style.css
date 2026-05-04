@@ -463,8 +463,7 @@ ul { list-style:none; }
 /* ==================== */
 /* DESTINAZIONI — DESKTOP GRID, MOBILE SWIPE */
 /* ==================== */
-.section-destinations { background:var(--bg-white); }
-
+.section-destinations { background:var(--bg-white); padding-top:0; }
 /* DESKTOP: normal grid */
 .destinations-grid {
     display:grid;
